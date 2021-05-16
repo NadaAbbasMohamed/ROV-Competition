@@ -36,3 +36,8 @@ Images of different sides after capturing and cropping
 
 ## Task 3 - Object Dimensions Detection: 
 It was required to detect the dimensions of square like objects representing underwater polutants. the objects were blue colored
+
+
+![Detection Result](https://user-images.githubusercontent.com/39967135/118387704-2d4a8800-b620-11eb-941d-668bc578b5a5.PNG)
+
+Real life result for object detection and size estimation algorithm
