@@ -12,3 +12,6 @@ Base/ Original Coral Reef image --------   Changed Coral Reef image
 ![result](https://user-images.githubusercontent.com/39967135/118386380-5d415d80-b617-11eb-980a-6629c75c2a4b.png)
 
 Result of color detection algorithm
+
+## Task 2: Images Concatenation Task
+a maket of bus made up of plastic sheets of different colors was used for this task. the requirement was to capture live images of this maket then concatenate the images of each side together to have full view of the box aka. Bus
