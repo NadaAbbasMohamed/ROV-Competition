@@ -33,3 +33,6 @@ Images of different sides after capturing and cropping
 
 ![Output](https://user-images.githubusercontent.com/39967135/118386772-26207b80-b61a-11eb-9fe5-dea452c1c8ca.png)
 ---------------------------------------------------------- Output of the concatenation algorithm
+
+## Task 3 - Object Dimensions Detection: 
+It was required to detect the dimensions of square like objects representing underwater polutants. the objects were blue colored
