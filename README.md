@@ -15,3 +15,21 @@ Result of color detection algorithm
 
 ## Task 2: Images Concatenation Task
 a maket of bus made up of plastic sheets of different colors was used for this task. the requirement was to capture live images of this maket then concatenate the images of each side together to have full view of the box aka. Bus
+
+
+![res0](https://user-images.githubusercontent.com/39967135/118386781-29b40280-b61a-11eb-80f0-f1a0929995ae.jpg)   ![res1](https://user-images.githubusercontent.com/39967135/118386782-2a4c9900-b61a-11eb-80e3-4f68fbd908bd.jpg)
+
+------------------ side 1 ------------------------------------------------------------ side 2
+
+![res2](https://user-images.githubusercontent.com/39967135/118386784-2ae52f80-b61a-11eb-9ee7-ee16af14ce7c.jpg)   ![res3](https://user-images.githubusercontent.com/39967135/118386786-2ae52f80-b61a-11eb-9160-b2b277bdf041.jpg)
+
+------------------ side 3 ------------------------------------------------------------ side 4
+
+![res4](https://user-images.githubusercontent.com/39967135/118386788-2b7dc600-b61a-11eb-965a-1f5a1591c688.jpg)
+
+------------------------------------------- side 5
+
+Images of different sides after capturing and cropping
+
+![Output](https://user-images.githubusercontent.com/39967135/118386772-26207b80-b61a-11eb-9fe5-dea452c1c8ca.png)
+---------------------------------------------------------- Output of the concatenation algorithm
